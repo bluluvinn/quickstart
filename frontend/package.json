@@ -9,7 +9,7 @@
     "@types/node": "^12.20.55",
     "@types/react": "^18.3.28",
     "@types/react-dom": "^18.3.7",
-    "ajv": "^8.17.1",
+    "ajv": "^8.18.0",
     "ajv-keywords": "^5.1.0",
     "classnames": "^2.5.1",
     "immer": "^9.0.21",
